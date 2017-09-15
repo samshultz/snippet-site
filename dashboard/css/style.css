@@ -65,24 +65,24 @@ footer p
 {
     color: #000;
 }
-#code-detail,
-#code-actions,
-#code-stat
+.code-detail,
+.code-actions,
+.code-stat
 {
     font-size: 12px;
 
     position: relative;
 }
-#code-detail a,
-#code-actions a
+.code-detail a,
+.code-actions a
 {
     color: #d95459;
 }
-#code-detail
+.code-detail
 {
     bottom: -17px;
 }
-#code-stat
+.code-stat
 {
     top: -17px;
 }
