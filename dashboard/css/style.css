@@ -39,7 +39,7 @@ code p
     background-color: #999;
 }
 
-button[name=copy]
+[name=copy]
 {
     font-size: .8rem;
 
@@ -49,11 +49,11 @@ button[name=copy]
 
     padding: .75rem 1rem;
 
-    color: white;
+    color: #fff;
     border-top-right-radius: 5px;
     background: #d95459;
 }
-button[name=copy]:hover
+[name=copy]:hover
 {
     background-color: #1abc9c;
 }
